@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**alvinend/alvinend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Indonesian who love coffee and dogs!! Also code sometimes.
+Currently studying at　Kyoto College of Graduate Studies for Informatics. 🏫
+Work as Engineer Intern 👷‍♂️
 
-Here are some ideas to get you started:
+While you're here check my repositories:
+🆕 Newest : [boichan-alkitab](https://github.com/alvinend/boichan-alkitab)
+🔥 Biggest (yet) : [Minnano](https://github.com/alvinend/minnano)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+How to reach me: 
+📫 Email: alvinendratno@live.com
+🖼️ Instagram: alvinendratno
+
+⚡ Fun fact: Dog have 4 legs and no hand
+
