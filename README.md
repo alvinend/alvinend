@@ -6,6 +6,9 @@ Currently studying atKyoto College of Graduate Studies for Informatics. 🏫
 
 Work as Engineer Intern 👷‍♂️
 
+### Portfolio & Blog
+- https://alvinend.github.io
+
 ### While you're here check my repositories:
 - 🆕 Newest : [boichan-alkitab](https://github.com/alvinend/boichan-alkitab)
 - 🔥 Biggest (yet) : [Minnano](https://github.com/alvinend/minnano)
