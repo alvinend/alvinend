@@ -16,5 +16,7 @@ Work as Engineer Intern 👷‍♂️
 ### How to reach me:
 - 📫 Email: alvinendratno@live.com
 - 🖼️ Instagram: alvinendratno
+- 🐦 Twitter: @EndratnoAlvin
+
 
 **⚡ Fun fact: Dog have 4 legs and no hand**
